@@ -1,0 +1,141 @@
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.Cache
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csprojResolveAssemblyReference.cache
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhanvien.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formmuontra.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemsach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemdocgia.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+E:\CHU THUAN\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkedocgia.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formmuontra.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhanvien.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkedocgia.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemdocgia.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemsach.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CoreCompileInputs.cache
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+C:\Users\Online Teaching\Downloads\Demo\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formmuontra.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhanvien.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkedocgia.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemdocgia.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemsach.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Online Teaching\Downloads\Khang's\PTUD\QLTV\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csprojAssemblyReference.cache
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formmuontra.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhanvien.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkedocgia.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemdocgia.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemsach.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+C:\Users\HOME\Downloads\QLTV(editing)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csprojAssemblyReference.cache
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formmuontra.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhanvien.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkedocgia.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formthongkesach.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemdocgia.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtimkiemsach.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+C:\Users\KHANG NOBI\Downloads\QLTV(Hau da sua formdocgia)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csprojAssemblyReference.cache
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+C:\Users\HOME\Downloads\QLTV(Khang Da Sua)\QLTV(Hau da sua formdocgia)\do an\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe.config
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.exe
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\bin\Debug\QLTHUVIEN.pdb
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csprojAssemblyReference.cache
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.ResolveComReference.cache
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.dangnhap.resources
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formchinh.resources
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.theloaisach.resources
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formtacgia.resources
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formnhaxb.resources
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formcapnhatsach.resources
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Formdocgia.resources
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.exe
+C:\Users\HOME\Downloads\QuanLyThuVien\QLTHUVIEN\QLTHUVIEN\obj\x86\Debug\QLTHUVIEN.pdb
